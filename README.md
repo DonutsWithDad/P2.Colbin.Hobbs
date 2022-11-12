@@ -46,3 +46,15 @@ Colbin Hobbs November 2, 2022
 # Some more notes
   I have included photoshop files of the final product as well as some jpgs of the final product with some open menus. This is to give a better idea of what the project is going to look like. 
   
+#Some Pictures
+
+![p2 colbin hobbs](https://user-images.githubusercontent.com/81337598/201487205-00e8cc8c-83b6-4366-9f71-20a13229cb43.jpg)
+![Main_Menu](https://user-images.githubusercontent.com/81337598/201487078-696bc898-be2c-42b1-8b9b-efc26c7a7f3d.jpg)
+![Health_Menu_graphs](https://user-images.githubusercontent.com/81337598/201487086-3ef3d42e-32d2-4252-a54c-8a3af7020ae8.jpg)
+![Health_Menu](https://user-images.githubusercontent.com/81337598/201487088-3fcab1f8-0c45-4b77-93df-8f261700a4a5.jpg)
+![Calendar_Menu](https://user-images.githubusercontent.com/81337598/201487093-19525a10-67c7-4f88-959f-8aff7397feca.jpg)
+![Social_Menu](https://user-images.githubusercontent.com/81337598/201487097-7278f5c3-2c7a-428d-aec5-408d31fc71d1.jpg)
+
+#settings photo
+![settings_menu](https://user-images.githubusercontent.com/81337598/201487125-a5c8b136-8047-4d79-b87b-2255b43ada1d.jpg)
+
